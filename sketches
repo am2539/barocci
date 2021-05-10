@@ -1,0 +1,211 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "sketches",
+"@type": "sc:Manifest",
+"label": "Exhibitions, Barocci: A lesson in drawing, Barocci Drawings: Types of drawings, Barocci Drawings: Sketches",
+"license": [
+"https://creativecommons.org/licenses/by-nc-nd/4.0/"
+],
+"attribution": "These images are © The National Gallery, London. These works are\nlicensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0\nInternational License (CC BY-NC-ND 4.0)\nhttps://creativecommons.org/licenses/by-nc-nd/4.0/",
+"logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+"metadata": [
+{
+"label": "Description",
+"value": "<a href=\"https://research.ng-london.org.uk/iiif/projects\">Home</a> | <a href=\"https://research.ng-london.org.uk/iiif/projects/exhibitions\">Exhibitions</a> | <a href=\"https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013\">Barocci: A lesson in drawing</a> | <a href=\"https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing\">Barocci Drawings: Types of drawings</a><br/><br/>Often made in pen and ink, or chalks, these types of drawings were made quickly to capture the essence of the artist’s composition. Since they were usually made from imagination and were done at a very early stage of the creative process, they could often appear unfinished and look quite different from the final composition. From a document dated 1658 we learn that Barocci called his sketches ‘scarpigni’ (‘primi pensieri’ or first thoughts). Bellori also mentions that he would never draw anything that he had not first observed in nature. He would frequently walk in the streets and squares of Urbino to look for scenes to sketch from everyday life. This exercise enabled him to use subjects observed at first-hand when depicting religious subject matters.<ul><li><a href=\"http://www.nationalgallery.org.uk/paintings/federico-barocci-the-madonna-of-the-cat-la-madonna-del-gatto\">View the painting</a></li><li><a href=\"http://www.nationalgallery.org.uk/paintings/learn-about-art/paintings-in-depth/barocci-a-lesson-in-drawing\">Barocci: a lesson in drawing</a></li></ul>"
+}
+],
+"description": "<a href=\"https://research.ng-london.org.uk/iiif/projects\">Home</a> | <a href=\"https://research.ng-london.org.uk/iiif/projects/exhibitions\">Exhibitions</a> | <a href=\"https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013\">Barocci: A lesson in drawing</a> | <a href=\"https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing\">Barocci Drawings: Types of drawings</a><br/><br/>Often made in pen and ink, or chalks, these types of drawings were made quickly to capture the essence of the artist’s composition. Since they were usually made from imagination and were done at a very early stage of the creative process, they could often appear unfinished and look quite different from the final composition. From a document dated 1658 we learn that Barocci called his sketches ‘scarpigni’ (‘primi pensieri’ or first thoughts). Bellori also mentions that he would never draw anything that he had not first observed in nature. He would frequently walk in the streets and squares of Urbino to look for scenes to sketch from everyday life. This exercise enabled him to use subjects observed at first-hand when depicting religious subject matters.<ul><li><a href=\"http://www.nationalgallery.org.uk/paintings/federico-barocci-the-madonna-of-the-cat-la-madonna-del-gatto\">View the painting</a></li><li><a href=\"http://www.nationalgallery.org.uk/paintings/learn-about-art/paintings-in-depth/barocci-a-lesson-in-drawing\">Barocci: a lesson in drawing</a></li></ul>",
+"viewingDirection": "left-to-right",
+"viewingHint": "individuals",
+"sequences": [
+{
+"@id": "http://example.example/public/manifests/sequence/normal.json",
+"@type": "sc:Sequence",
+"label": "Normal Order",
+"canvases": [
+{
+"@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0029-00-000002-PYR.tif/normal.json",
+"@type": "sc:Canvas",
+"label": "R29: Federico Barocci, <i>Study for the Virgin and Child with Saint John</i>, before 1575–6, black chalk and pen and ink on white paper, (10.2 x 17.1 cm), (inv. 11453 F recto, Gabinetto dei Disegni e delle Stampe, Galleria degli Uffizi, Florence) <br/>Unfortunately, the condition of this delicate pen and ink drawing makes it hard to interpret. At the back, the three figures are shown aligned with the Virgin and the Christ Child leaning towards Saint John the Baptist who can be seen at the front of the composition. Saint John is sketched using such faint lines that is hard to determine what he is doing. <br/>© By courtesy of the Ministero per i Beni e le Attività Culturali\nFile:R-0029-00-000002-PYR.tif (2535x1749px)",
+"height": 2535,
+"width": 1749,
+"images": [
+{
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0029-00-000002-PYR.tif/full/full/0/default.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"height": 2535,
+"width": 1749,
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0029-00-000002-PYR.tif",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0029-00-000002-PYR.tif/normal.json"
+}
+]
+},
+{
+"@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0024-00-000002-PYR.tif/normal.json",
+"@type": "sc:Canvas",
+"label": "R24: Federico Barocci, <i>Sketch for 'The Madonna of the Cat' ('La Madonna del Gatto')</i>, before 1575–6, pen and ink, wash and red and black chalk on white paper, (21.7 x 10.7 cm), (inv. 1412 E recto, Gabinetto dei Disegni e delle Stampe degli Uffizi, Florence) <br/>In this ‘primo pensiero’ (first thought) Barocci is pursuing the idea, inspired by the works of Raphael, of placing the two embracing cousins, Saint John the Baptist and Christ, on the Virgin’s lap. However, it is interesting to note that he has not yet thought of introducing the central theme of the painting: the cat chasing the goldfinch, which will distinguish this composition from the traditional Holy Family iconography. As a result, scholars think that this sketch is one of the first surviving preparatory drawings for ‘The Madonna of the Cat (‘La Madonna del Gatto’)’. <br/>© Photo Scala, Florence - courtesy of the Ministero per i Beni e le Attività Culturali\nFile:R-0024-00-000002-PYR.tif (3660x1819px)",
+"height": 3660,
+"width": 1819,
+"images": [
+{
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0024-00-000002-PYR.tif/full/full/0/default.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"height": 3660,
+"width": 1819,
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0024-00-000002-PYR.tif",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0024-00-000002-PYR.tif/normal.json"
+}
+]
+},
+{
+"@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0025-00-000002-PYR.tif/normal.json",
+"@type": "sc:Canvas",
+"label": "R25: Federico Barocci, <i>Virgin and Child with Saint John</i>, before 1575–6, black charcoal on white paper, (12 x 11.7 cm), (inv. 11463 F recto, Gabinetto dei Disegni e delle Stampe, Galleria degli Uffizi, Florence) <br/>In this very early sketch for the main group of figures in ‘The Madonna of the Cat (‘La Madonna del Gatto’)’, Barocci represents the Virgin holding the Christ Child on her lap and embracing Saint John the Baptist with her right arm. The idea of depicting the interaction between the two children had proved very successful during the Renaissance and Barocci may have had examples by Raphael and other masters in mind whilst executing this early sketch. <br/>© By courtesy of the Ministero per i Beni e le Attività Culturali\nFile:R-0025-00-000002-PYR.tif (3050x2943px)",
+"height": 3050,
+"width": 2943,
+"images": [
+{
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0025-00-000002-PYR.tif/full/full/0/default.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"height": 3050,
+"width": 2943,
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0025-00-000002-PYR.tif",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0025-00-000002-PYR.tif/normal.json"
+}
+]
+},
+{
+"@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0026-00-000002-PYR.tif/normal.json",
+"@type": "sc:Canvas",
+"label": "R26: Federico Barocci, <i>Virgin and Child with Saint John</i>, before 1575–6, black chalk and pen and ink with white heightening on white paper, (15.5 x 11 cm), (inv. 11542 F recto, Gabinetto dei Disegni e delle Stampe, Galleria degli Uffizi, Florence) <br/>This sheet, which has been cut down from its original size, shows a composition closely related to another drawing from the Gabinetto dei Disegni e delle Stampe degli Uffizi, Florence (R24). In both studies the two children are about to kiss each other. However, in this drawing, which is in worse condition, Barocci uses the technique of white heightening to depict the light effects used in the mother and child group. It is clear that Barocci had already decided at this stage that the light source for his painting should be placed to the left of the composition. <br/>© By courtesy of the Ministero per i Beni e le Attività Culturali\nFile:R-0026-00-000002-PYR.tif (3687x2648px)",
+"height": 3687,
+"width": 2648,
+"images": [
+{
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0026-00-000002-PYR.tif/full/full/0/default.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"height": 3687,
+"width": 2648,
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0026-00-000002-PYR.tif",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0026-00-000002-PYR.tif/normal.json"
+}
+]
+},
+{
+"@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0028-00-000002-PYR.tif/normal.json",
+"@type": "sc:Canvas",
+"label": "R28: Federico Barocci, <i>Study for the Virgin and Child with Saint John</i>, before 1575–6, red chalk and pen and ink on white paper, (16.2 x 11 cm), (inv. 1419 E recto, Gabinetto dei Disegni e delle Stampe, Galleria degli Uffizi, Florence) <br/>Of all the surviving preliminary sketches for ‘The Madonna of the Cat (‘La Madonna del Gatto’)’ this is the first one in which the cat makes its appearance. On the top right part of the drawing Barocci explores the group of the Virgin, Christ Child and Saint John the Baptist once more. This time the figures are placed on three different levels: the Virgin in the background, her vivacious son in the middle and his cousin, with his half-extended left leg, in the foreground. With its front paws leaning on the child’s knee, the cat is depicted staring at what appear to be the first indications of a goldfinch in Saint John’s hand. <br/>© By courtesy of the Ministero per i Beni e le Attività Culturali\nFile:R-0028-00-000002-PYR.tif (3894x2728px)",
+"height": 3894,
+"width": 2728,
+"images": [
+{
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0028-00-000002-PYR.tif/full/full/0/default.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"height": 3894,
+"width": 2728,
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0028-00-000002-PYR.tif",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0028-00-000002-PYR.tif/normal.json"
+}
+]
+},
+{
+"@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0056-00-000002-PYR.tif/normal.json",
+"@type": "sc:Canvas",
+"label": "R56: Federico Barocci, <i>Sketch for the Virgin and Child with Saint John</i>, before 1575–6, black chalk, pen and ink with wash on white paper, (30.3 x 23.4 cm), (inv. 11477 F recto, Gabinetto dei Disegni e delle Stampe degli Uffizi, Florence) <br/>This sheet records Barocci’s rapid initial trials for the group of the Virgin and two children in ‘The Madonna of the Cat (‘La Madonna del Gatto’). He began experimenting in black chalk, but then inverted the sheet to continue a new series of drawings in pen and wash. His main concerns were the distribution of light and shadow, and the young John the Baptist’s dynamic diagonal pose. Barocci’s sensitive use of wash highlights key passages such as the Virgin’s bare breast and the children’s joyful expressions. <br/>© Photo Scala, Florence - courtesy of the Ministero per i Beni e le Attività Culturali\nFile:R-0056-00-000002-PYR.tif (3207x2539px)",
+"height": 3207,
+"width": 2539,
+"images": [
+{
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0056-00-000002-PYR.tif/full/full/0/default.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"height": 3207,
+"width": 2539,
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/noncollectionfiles/Non Collection Files/R-0056-00-000002-PYR.tif",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0056-00-000002-PYR.tif/normal.json"
+}
+]
+},
+{
+"@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/N-0029-00-000064-WZ-PYR.tif/normal.json",
+"@type": "sc:Canvas",
+"label": "NG29: Federico Barocci, <i>The Madonna of the Cat ('La Madonna del Gatto')</i>, probably about 1575, Oil on canvas, (112.7 x 92.7 cm) <br/>The young John the Baptist holds a goldfinch, a bird frequently kept as a pet but also a traditional symbol of Christ's Passion; the Baptist is teasing the cat shown in the left foreground by holding the bird above his head. The Virgin is suckling the Child and Saint Joseph looks on from the right.\n<br/>NG 29 may be the picture painted, according to Bellori (1672), for Count Antonio Brancaleoni, who lived near Perugia. The design was engraved in reverse in 1577 by Cornelius Cort and the painting probably dates from about 1575. Numerous drawings made in preparation for NG 29 are known; a highly finished drawing made by Barocci in preparation for the engraving and formerly in the National Gallery is now in the British Museum.\n<br/>The window and the bench in the background seem to be based on windows in the Palazzo Ducale, Urbino. There are several copies and workshop versions of the picture.\n<br/>Cesarei collection, Perugia, by 1784; acquired in Italy by Buchanan, about 1805; collection of Revd Holwell Carr, 1807; by whom bequeathed, 1831.\n<br/>Gould 1975, pp. 11-12\n<br/>Emiliani 1985, I, pp. 93-103 <br/>Bequeathed by Revd Holwell Carr, 1831\nFile:N-0029-00-000064-WZ-PYR.tif (6000x4929px)",
+"height": 6000,
+"width": 4929,
+"images": [
+{
+"@type": "oa:Annotation",
+"motivation": "sc:painting",
+"resource": {
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/websiteimages/Website_Collection_Online/Web Zoom Images/WZ web NG Fronts/N-0029-00-000064-WZ-PYR.tif/full/full/0/default.jpg",
+"@type": "dctypes:Image",
+"format": "image/jpeg",
+"height": 6000,
+"width": 4929,
+"service": {
+"@context": "http://iiif.io/api/image/2/context.json",
+"@id": "https://research.ng-london.org.uk/iiif-int/pics/pyramids/websiteimages/Website_Collection_Online/Web Zoom Images/WZ web NG Fronts/N-0029-00-000064-WZ-PYR.tif",
+"profile": "http://iiif.io/api/image/2/level2.json"
+}
+},
+"on": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/N-0029-00-000064-WZ-PYR.tif/normal.json"
+}
+]
+}
+]
+}
+]
+}
