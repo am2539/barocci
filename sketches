@@ -21,7 +21,7 @@
 {
 "@id": "http://example.example/public/manifests/sequence/normal.json",
 "@type": "sc:Sequence",
-"label": "Normal Order",
+"label": "Current Page Order",
 "canvases": [
 {
 "@id": "https://research.ng-london.org.uk/public/manifests/sequence/iiif/R-0029-00-000002-PYR.tif/normal.json",
