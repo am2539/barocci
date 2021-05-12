@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "https://raw.githubusercontent.com/am2539/barocci/main/types_of_drawing_collection_manifest?token=AIWZ4UB2BR2SUL3FO7LBB2TATO4VQ",
+"@id": "https://raw.githubusercontent.com/am2539/barocci/main/media_collection_manifest?token=AIWZ4UFRYV2BSIZ5HHAZNCLATPNIM",
 "@type": "sc:Collection",
 "label": "Images from the <i>Barocci: A Lesson in Drawing</i> exhibition sorted based upon the media in which the drawing was executed",
 "viewingHint": "top",
