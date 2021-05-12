@@ -2,7 +2,7 @@
 "@context": "http://iiif.io/api/presentation/2/context.json",
 "@id": "https://raw.githubusercontent.com/am2539/barocci/main/types_of_drawing_collection_manifest?token=AIWZ4UB2BR2SUL3FO7LBB2TATO4VQ",
 "@type": "sc:Collection",
-"label": "Images from the <i>Barocci: A Lesson in Drawing</i> exhibition looking at various types of drawing ",
+"label": "Images from the <i>Barocci: A Lesson in Drawing</i> exhibition sorted based upon the subject matter in the drawing",
 "viewingHint": "top",
 "description": "A collection manifest for the online resource presenting the images associated with the 2013 Barocci exhibition.",
 "attribution": "Provided by The National Gallery",
