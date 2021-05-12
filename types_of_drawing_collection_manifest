@@ -1,0 +1,46 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://raw.githubusercontent.com/ParkerWeb/parker_manifests/master/med-collection.json",
+"@type": "sc:Collection",
+"label": "Images from the <i>Barocci: A Lesson in Drawing</i> exhibition looking at various types of drawing ",
+"viewingHint": "top",
+"description": "A collection manifest for the online resource presenting the images associated with the 2013 Barocci exhibition.",
+"attribution": "Provided by The National Gallery",
+"manifests": [
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/external/baroccidrawings2013/typesofdrawing/sketches/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Sketches"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing/modelstudies/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Studies from Models"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing/compositionalstudies/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Compositional Studies"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing/anatomicalstudies/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Anatomical Studies"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing/headstudies/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Head Studies"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing/draperystudies/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Drapery Studies"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/typesofdrawing/finishedstudies/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Finished Studies"
+  }
+]
+}
