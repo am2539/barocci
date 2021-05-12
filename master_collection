@@ -1,6 +1,6 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "https://raw.githubusercontent.com/am2539/barocci/main/master_collection?token=AIWZ4UCFEQUFVWZL2HBAFFTATPQCY",
+"@id": "https://raw.githubusercontent.com/am2539/barocci/main/master_collection?token=AIWZ4UGQYVMLX6EFICDVGFDATPRG4",
 "@type": "sc:Collection",
 "label": "Images from the Barocci: A Lesson in Drawing exhibition",
 "viewingHint": "top",
