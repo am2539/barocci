@@ -8,27 +8,27 @@
 "attribution": "Provided by The National Gallery",
 "collections": [
   {
-    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/types_of_drawing_collection_manifest?token=AIWZ4UELO7DEXNQKUJJPEALATPO26",
+    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/types_of_drawing_collection_manifest",
     "@type": "sc:Collection",
     "label": "Barocci Drawings: Types of Drawings"
   },
   {
-    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/supports_collection_manifest?token=AIWZ4UG65657FHIZIKFV62DATPNK2",
+    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/supports_collection_manifest",
     "@type": "sc:Collection",
     "label": "Barocci Drawings: Supports"
   },
   {
-    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/media_collection_manifest?token=AIWZ4UFRYV2BSIZ5HHAZNCLATPNIM",
+    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/media_collection_manifest",
     "@type": "sc:Collection",
     "label": "Barocci Drawings: Media"
   },
   {
-    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/madonna_cat_collection_manifest?token=AIWZ4UDHAW5LG7KKZUTV7PDATPNFU",
+    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/madonna_cat_collection_manifest",
     "@type": "sc:Collection",
     "label": "Barocci Drawings: Drawings certainly related to the The Madonna of the Cat"
   },
   {
-    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/madonna_cat_close_collection_manifest?token=AIWZ4UCQKV4E7L45ZPAMSMDATPNEC",
+    "@id": "https://raw.githubusercontent.com/am2539/barocci/main/madonna_cat_close_collection_manifest",
     "@type": "sc:Collection",
     "label": "Barocci Drawings: Drawings close to the Madonna of the Cat"
 }
