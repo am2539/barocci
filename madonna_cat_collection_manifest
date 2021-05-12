@@ -1,0 +1,16 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://raw.githubusercontent.com/am2539/barocci/main/types_of_drawing_collection_manifest?token=AIWZ4UB2BR2SUL3FO7LBB2TATO4VQ",
+"@type": "sc:Collection",
+"label": "Images from the Barocci: A Lesson in Drawing exhibition certainly related to the Madonna of the Cat",
+"viewingHint": "top",
+"description": "A collection manifest for the online resource presenting the images associated with the 2013 Barocci exhibition.",
+"attribution": "Provided by The National Gallery",
+"manifests": [
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/relatedtong29/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Drawings Certainly Related to the Madonna of the Cat (La Madonna del Gatto)"
+  }
+]
+}
