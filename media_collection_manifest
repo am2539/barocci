@@ -1,0 +1,51 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://raw.githubusercontent.com/am2539/barocci/main/types_of_drawing_collection_manifest?token=AIWZ4UB2BR2SUL3FO7LBB2TATO4VQ",
+"@type": "sc:Collection",
+"label": "Images from the <i>Barocci: A Lesson in Drawing</i> exhibition sorted based upon the media in which the drawing was executed",
+"viewingHint": "top",
+"description": "A collection manifest for the online resource presenting the images associated with the 2013 Barocci exhibition.",
+"attribution": "Provided by The National Gallery",
+"manifests": [
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/blackchalk/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Black Chalk"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/whitechalk/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: White Chalk"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/redchalk/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Red Chalk"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/charcoal/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Charcoal"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/pastels/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Pastels"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/inkswashes/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Inks and Washes"
+  },
+  {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/waterbodyguache/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Watercolour and Bodycolour or gouache"
+  },
+    {
+    "@id": "https://research.ng-london.org.uk/iiif/projects/exhibitions/baroccidrawings2013/media/highteningwhitelead/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Barocci Drawings: Hightening and Lead White"
+  }
+]
+}
